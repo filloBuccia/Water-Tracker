@@ -1,4 +1,4 @@
-## WATER TRACKER
+# WATER TRACKER
 ![water_tracker_presentation.png](/water_tracker_presentation.png)
 **Water tracker** is a simple terminal tool for tracking your daily assumption of water. It is provided with cool graphics showing your achivements.
 
